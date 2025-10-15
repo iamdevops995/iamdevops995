@@ -7,8 +7,8 @@
 <h3 align="center">I need to add</h3>
 
 <p align="center">
-  <a href="https://github.com/logesh-45">
-    <img src="https://img.shields.io/github/followers/logesh-45?label=Follow&style=social" />
+  <a href="https://github.com/iamdevops995">
+    <img src="https://img.shields.io/github/followers/iamdevops995?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/logeshkumar45">
     <img src="https://img.shields.io/badge/LinkedIn-Logesh%20kumar-blue?logo=linkedin&style=flat-square" />
@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/logesh-45](https://github.com/logesh-45)  
+- 👨‍💻 All of my projects are available at [https://github.com/iamdevops995](https://github.com/iamdevops995)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
 - 📫 How to reach me iamdevops995@gmail.com
 
