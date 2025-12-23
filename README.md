@@ -1,75 +1,69 @@
-<h1 align="center">Hello Everyone 👋, I'm Logeshkumar</h1>
+# Hi 👋, I'm Logeshkumar 
 
-<div align="center">
-  <img src="https://github.com/logesh-45/logesh-45/blob/main/logeshbanner.png" alt="Logeshkumar Banner">
-</div>
+## 🚀 DevOps Engineer | Cloud | Kubernetes | CI/CD
 
-<h3 align="center">I need to add</h3>
-
-<p align="center">
-  <a href="https://github.com/iamdevops995">
-    <img src="https://img.shields.io/github/followers/iamdevops995?label=Follow&style=social" />
-  </a>
-  <a href="https://linkedin.com/in/logeshkumar45">
-    <img src="https://img.shields.io/badge/LinkedIn-Logesh%20kumar-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/iamdevops995](https://github.com/iamdevops995)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me iamdevops995@gmail.com
+🔧 DevOps Engineer with #+ experience in designing, automating, and optimizing cloud-native infrastructure.  
+💡 Passionate about **CI/CD pipelines, Kubernetes, Infrastructure as Code, and Observability**.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/logeshkumar45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+## 🧑‍💻 About Me
+- 🌱 Currently working on **Kubernetes, Terraform, and GitOps**
+- ☁️ Hands-on with **AWS / Azure**
+- 🔐 Experience in **TLS, mTLS, Vault, IAM, and security best practices**
+- 📈 Interested in **APM, Monitoring, and Performance Engineering**
+- 🛠 Strong background in **Linux & Automation**
+- 💬 Ask me about **Docker, Kubernetes, Jenkins, GitHub Actions, Terraform**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/splunk.png" alt="splunk"/>
-  
-</p>
+## 🛠️ Tech Stack
 
+### 🚀 DevOps & Cloud
+- Docker | Kubernetes | Helm
+- Jenkins | GitHub Actions | GitLab CI
+- Terraform | Ansible
+- AWS | EKS | EC2 | S3 | IAM | VPC
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdevops995&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+### 🔐 Security
+- TLS / mTLS
+- HashiCorp Vault
+- Secrets Manager
+- OIDC / IAM Roles
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdevops995&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+### 📊 Monitoring & Logging
+- Prometheus | Grafana
+- Splunk
+- DX APM / APIMetrics
+- ELK Stack
+
+### 🧰 Tools & OS
+- Linux (RHEL, Ubuntu)
+- Git | GitHub
+- Bash | Shell Scripting
 
 ---
-### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+## 📂 Featured Projects
+- 🔹 **Kubernetes CI/CD Pipeline** – Jenkins + Docker + EKS
+- 🔹 **Terraform AWS Infra** – VPC, EKS, IAM, ALB
+- 🔹 **GitHub Actions + Vault** – Secure Secrets Injection
+- 🔹 **TLS & mTLS Demo** – Java + Docker + Certificates
 
 ---
-### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest sessions**  
-🤝 Open to **Project Collaborations **  
-💼 I need to add  
-📧 Let’s chat: [iamdevops995@gmail.com](iamdevops995@gmail.com)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdevops995E&show_icons=true&theme=dark)
 
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevops995&layout=compact&theme=dark)
+
+---
+
+## 🤝 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in//logeshkumar45
+- 📧 Email: iamdevops995@gmail.com
+- 🧑‍💻 GitHub: https://github.com/iamdevops995
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*
