@@ -40,11 +40,7 @@ Operating Systems
 
 ---
 📄 My Resume
-<!-- <p align="center"> <a href="https://raw.githubusercontent.com/iamdevops995/iamdevops995/main/resume/Logeshkumar_DevOps_Engineer.pdf"> <img src="https://img.shields.io/badge/DOWNLOAD%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"> </a> </p> -->
-
-[![Download CV](https://img.shields.io/badge/DOWNLOAD%20CV-PDF-red?style=for-the-badge)](
-https://iamdevops995.github.io/assets/Logeshkumar_DevOps_Engineer.pdf
-)
+<p align="center"> <a href="https://raw.githubusercontent.com/iamdevops995/iamdevops995/main/resume/Logeshkumar_DevOps_Engineer.pdf"> <img src="https://img.shields.io/badge/DOWNLOAD%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"> </a> </p>
 
 ---
 
