@@ -17,30 +17,30 @@
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ My Tech Stack
+<table> <tr> <td align="center" width="20%">
+Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform,ansible" /> </td> <td align="center" width="20%">
+Containers & Orchestration
 
-### 🚀 DevOps & Cloud
-- Docker | Kubernetes | Helm
-- Jenkins | GitHub Actions | GitLab CI
-- Terraform | Ansible
-- AWS | EKS | EC2 | S3 | IAM | VPC
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" /><br/>
+<img src="https://img.shields.io/badge/OpenShift-red?logo=redhat&logoColor=white" />
 
-### 🔐 Security
-- TLS / mTLS
-- HashiCorp Vault
-- Secrets Manager
-- OIDC / IAM Roles
+</td> <td align="center" width="20%">
+CI/CD & GitOps
 
-### 📊 Monitoring & Logging
-- Prometheus | Grafana
-- Splunk
-- DX APM / APIMetrics
-- ELK Stack
+<img src="https://skillicons.dev/icons?i=jenkins,git" /><br/>
+<img src="https://img.shields.io/badge/ArgoCD-EF478F?logo=argo&logoColor=white" />
 
-### 🧰 Tools & OS
-- Linux (RHEL, Ubuntu)
-- Git | GitHub
-- Bash | Shell Scripting
+</td> <td align="center" width="20%">
+Cloud Platforms
+<img src="https://skillicons.dev/icons?i=aws" /> </td> <td align="center" width="20%">
+Operating Systems
+<img src="https://skillicons.dev/icons?i=ubuntu,redhat" /> </td> </tr> </table>
+
+---
+📄 My Resume
+<p align="center"> <a href="https://your-resume-link.pdf"> <img src="https://img.shields.io/badge/DOWNLOAD%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader"> </a> </p>
 
 ---
 
