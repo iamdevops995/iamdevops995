@@ -2,7 +2,7 @@
 
 ## 🚀 DevOps Engineer | Cloud | Kubernetes | CI/CD
 
-🔧 DevOps Engineer with #+ experience in designing, automating, and optimizing cloud-native infrastructure.  
+🔧 DevOps Engineer with 3+ experience in designing, automating, and optimizing cloud-native infrastructure.  
 💡 Passionate about **CI/CD pipelines, Kubernetes, Infrastructure as Code, and Observability**.
 
 ---
