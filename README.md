@@ -60,7 +60,7 @@ Operating Systems
 ---
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in//logeshkumar45
+- 💼 LinkedIn: https://linkedin.com/in/logeshkumar45
 - 📧 Email: iamdevops995@gmail.com
 - 🧑‍💻 GitHub: https://github.com/iamdevops995
 
